@@ -7008,8 +7008,98 @@
     <channel id="江阴新闻综合">
         <display-name lang="zh">江阴新闻综合</display-name>
     </channel>
-    <programme channel="江阴新闻综合" start="20260615000000 +0800" stop="20260615235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江阴新闻综合" start="20260614234300 +0800" stop="20260615000300 +0800">
+        <title lang="zh">汽车时代</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615000300 +0800" stop="20260615063000 +0800">
+        <title lang="zh">非常道(重)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615063000 +0800" stop="20260615070000 +0800">
+        <title lang="zh">讲座</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615070000 +0800" stop="20260615073000 +0800">
+        <title lang="zh">江阴新闻(重)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615073000 +0800" stop="20260615081200 +0800">
+        <title lang="zh">第1现场(重)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615081200 +0800" stop="20260615090400 +0800">
+        <title lang="zh">第一剧场</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615090400 +0800" stop="20260615095500 +0800">
+        <title lang="zh">第一剧场</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615095500 +0800" stop="20260615103000 +0800">
+        <title lang="zh">洋洋大观</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615103000 +0800" stop="20260615110500 +0800">
+        <title lang="zh">健康新食代</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615110500 +0800" stop="20260615113500 +0800">
+        <title lang="zh">讲座B</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615113500 +0800" stop="20260615121000 +0800">
+        <title lang="zh">江阴新闻(重)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615121000 +0800" stop="20260615124200 +0800">
+        <title lang="zh">非常道(重)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615124200 +0800" stop="20260615131200 +0800">
+        <title lang="zh">讲座C</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615131200 +0800" stop="20260615134700 +0800">
+        <title lang="zh">洋洋大观</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615134700 +0800" stop="20260615144500 +0800">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615144500 +0800" stop="20260615153500 +0800">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615153500 +0800" stop="20260615162500 +0800">
+        <title lang="zh">电视剧</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615162500 +0800" stop="20260615164000 +0800">
+        <title lang="zh">暨阳风采</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615164000 +0800" stop="20260615165500 +0800">
+        <title lang="zh">汽车时代</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615165500 +0800" stop="20260615173000 +0800">
+        <title lang="zh">阿毛来着(重)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615173000 +0800" stop="20260615180000 +0800">
+        <title lang="zh">讲座</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615180000 +0800" stop="20260615181500 +0800">
+        <title lang="zh">第一房产</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615181500 +0800" stop="20260615183000 +0800">
+        <title lang="zh">暨阳风采</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615183000 +0800" stop="20260615190000 +0800">
+        <title lang="zh">江阴新闻(首)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615190000 +0800" stop="20260615193000 +0800">
+        <title lang="zh">转新闻联播</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615193000 +0800" stop="20260615200400 +0800">
+        <title lang="zh">第1现场(首)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615200400 +0800" stop="20260615213000 +0800">
+        <title lang="zh">第一剧场</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615213000 +0800" stop="20260615215800 +0800">
+        <title lang="zh">江阴新闻(重)</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615215800 +0800" stop="20260615232800 +0800">
+        <title lang="zh">国剧经典剧场</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615232800 +0800" stop="20260615234300 +0800">
+        <title lang="zh">第1房产</title>
+    </programme>
+    <programme channel="江阴新闻综合" start="20260615234300 +0800" stop="20260616000300 +0800">
+        <title lang="zh">暨阳风采</title>
     </programme>
     <channel id="南通新闻综合">
         <display-name lang="zh">南通新闻综合</display-name>
