@@ -3651,7 +3651,7 @@
     <programme channel="辽宁卫视" start="20260824225200 +0800" stop="20260824233100 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
-    <programme channel="辽宁卫视" start="20260824233100 +0800" stop="20260825000000 +0800">
+    <programme channel="辽宁卫视" start="20260824233100 +0800" stop="20260825003500 +0800">
         <title lang="zh">欢乐集结号</title>
     </programme>
     <channel id="河北卫视">
@@ -3801,7 +3801,7 @@
     <programme channel="河北卫视" start="20260824233300 +0800" stop="20260824235800 +0800">
         <title lang="zh">城市烟火</title>
     </programme>
-    <programme channel="河北卫视" start="20260824235800 +0800" stop="20260825000000 +0800">
+    <programme channel="河北卫视" start="20260824235800 +0800" stop="20260825004000 +0800">
         <title lang="zh">依依向北风</title>
     </programme>
     <channel id="江西卫视">
@@ -7729,7 +7729,7 @@
         <display-name lang="zh">陕西都市青春频道</display-name>
     </channel>
     <programme channel="陕西都市青春频道" start="20260824000000 +0800" stop="20260824054700 +0800">
-        <title lang="zh">午夜剧场：岁岁年年柿柿红</title>
+        <title lang="zh">午夜剧场：养个孩子不容易 02</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824054700 +0800" stop="20260824061900 +0800">
         <title lang="zh">好管家重播</title>
@@ -7737,29 +7737,32 @@
     <programme channel="陕西都市青春频道" start="20260824061900 +0800" stop="20260824064900 +0800">
         <title lang="zh">练起来</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824064900 +0800" stop="20260824074000 +0800">
+    <programme channel="陕西都市青春频道" start="20260824064900 +0800" stop="20260824073400 +0800">
         <title lang="zh">长安故事 剧说那些事</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824074000 +0800" stop="20260824081000 +0800">
-        <title lang="zh">晨光剧场：狗剩快跑</title>
+    <programme channel="陕西都市青春频道" start="20260824073400 +0800" stop="20260824080400 +0800">
+        <title lang="zh">晨光剧场：狗剩快跑 32</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824081000 +0800" stop="20260824084500 +0800">
-        <title lang="zh">晨光剧场：狗剩快跑</title>
+    <programme channel="陕西都市青春频道" start="20260824080400 +0800" stop="20260824083900 +0800">
+        <title lang="zh">晨光剧场：狗剩快跑 33</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824084500 +0800" stop="20260824092100 +0800">
-        <title lang="zh">晨光剧场：狗剩快跑</title>
+    <programme channel="陕西都市青春频道" start="20260824083900 +0800" stop="20260824091500 +0800">
+        <title lang="zh">晨光剧场：狗剩快跑 34</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824092100 +0800" stop="20260824095600 +0800">
-        <title lang="zh">晨光剧场：狗剩快跑</title>
+    <programme channel="陕西都市青春频道" start="20260824091500 +0800" stop="20260824095000 +0800">
+        <title lang="zh">晨光剧场：胭脂 01</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824095600 +0800" stop="20260824103000 +0800">
-        <title lang="zh">晨光剧场：狗剩快跑</title>
+    <programme channel="陕西都市青春频道" start="20260824095000 +0800" stop="20260824102400 +0800">
+        <title lang="zh">晨光剧场：胭脂 02</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824103000 +0800" stop="20260824110000 +0800">
-        <title lang="zh">晨光剧场：狗剩快跑</title>
+    <programme channel="陕西都市青春频道" start="20260824102400 +0800" stop="20260824105400 +0800">
+        <title lang="zh">晨光剧场：胭脂 03</title>
     </programme>
-    <programme channel="陕西都市青春频道" start="20260824110000 +0800" stop="20260824114500 +0800">
+    <programme channel="陕西都市青春频道" start="20260824105400 +0800" stop="20260824113400 +0800">
         <title lang="zh">专题节目四A</title>
+    </programme>
+    <programme channel="陕西都市青春频道" start="20260824113400 +0800" stop="20260824114500 +0800">
+        <title lang="zh">加油吧！少年</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824114500 +0800" stop="20260824122500 +0800">
         <title lang="zh">都市快报重播</title>
@@ -7771,25 +7774,25 @@
         <title lang="zh">练起来</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824133600 +0800" stop="20260824141300 +0800">
-        <title lang="zh">青春剧场：大秧歌</title>
+        <title lang="zh">青春剧场：大秧歌 14</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824141300 +0800" stop="20260824145000 +0800">
-        <title lang="zh">青春剧场：大秧歌</title>
+        <title lang="zh">青春剧场：大秧歌 15</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824145000 +0800" stop="20260824152700 +0800">
-        <title lang="zh">青春剧场：大秧歌</title>
+        <title lang="zh">青春剧场：大秧歌 16</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824152700 +0800" stop="20260824160400 +0800">
-        <title lang="zh">青春剧场：大秧歌</title>
+        <title lang="zh">青春剧场：大秧歌 17</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824160400 +0800" stop="20260824164100 +0800">
-        <title lang="zh">青春剧场：大秧歌</title>
+        <title lang="zh">青春剧场：大秧歌 18</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824164100 +0800" stop="20260824165600 +0800">
         <title lang="zh">练起来</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824165600 +0800" stop="20260824172600 +0800">
-        <title lang="zh">青春剧场：大秧歌</title>
+        <title lang="zh">青春剧场：大秧歌 19</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824172600 +0800" stop="20260824181800 +0800">
         <title lang="zh">专题节目九</title>
@@ -7798,13 +7801,13 @@
         <title lang="zh">都市热线</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824190700 +0800" stop="20260824195900 +0800">
-        <title lang="zh">都市剧场：做自己的光</title>
+        <title lang="zh">都市剧场：做自己的光 38</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824195900 +0800" stop="20260824204800 +0800">
-        <title lang="zh">都市剧场：做自己的光</title>
+        <title lang="zh">都市剧场：做自己的光 39</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824204800 +0800" stop="20260824213000 +0800">
-        <title lang="zh">都市剧场：做自己的光</title>
+        <title lang="zh">都市剧场：做自己的光 40</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824213000 +0800" stop="20260824221000 +0800">
         <title lang="zh">陕西都市快报</title>
@@ -7816,10 +7819,10 @@
         <title lang="zh">陕西故事</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824230500 +0800" stop="20260824232000 +0800">
-        <title lang="zh">TV一周刊-19</title>
+        <title lang="zh">TV一周刊-20</title>
     </programme>
     <programme channel="陕西都市青春频道" start="20260824232000 +0800" stop="20260825000000 +0800">
-        <title lang="zh">午夜剧场：岁岁年年柿柿红</title>
+        <title lang="zh">午夜剧场：养个孩子不容易 03</title>
     </programme>
     <channel id="陕西秦腔频道">
         <display-name lang="zh">陕西秦腔频道</display-name>
@@ -9414,8 +9417,38 @@
     <channel id="24小时城市联赛轮播台">
         <display-name lang="zh">24小时城市联赛轮播台</display-name>
     </channel>
-    <programme channel="24小时城市联赛轮播台" start="20260824000000 +0800" stop="20260824235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="24小时城市联赛轮播台" start="20260824004000 +0800" stop="20260824032800 +0800">
+        <title lang="zh">浙江浙BA全场回放：江山65:60柯城</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824032800 +0800" stop="20260824050900 +0800">
+        <title lang="zh">天津海河超儿第1轮全场回放：西青2:5静海</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824050900 +0800" stop="20260824072200 +0800">
+        <title lang="zh">东北地区东北超第7轮全场回放：通辽1:1延边</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824072200 +0800" stop="20260824103300 +0800">
+        <title lang="zh">江西赣超第11轮全场回放：抚州3:0赣州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824103300 +0800" stop="20260824124500 +0800">
+        <title lang="zh">安徽徽BA第11轮全场回放：芜湖105:84亳州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824124500 +0800" stop="20260824144900 +0800">
+        <title lang="zh">山东齐鲁超第14轮全场回放：济南队3:2菏泽队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824144900 +0800" stop="20260824163800 +0800">
+        <title lang="zh">天津海河超儿第1轮全场回放：武清1:2河北</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824163800 +0800" stop="20260824185100 +0800">
+        <title lang="zh">东北地区东北超第7轮全场回放：长春1:0沈阳</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824185100 +0800" stop="20260824205600 +0800">
+        <title lang="zh">安徽徽青赛乙组第2轮全场回放：铜陵1:2宣城</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824205600 +0800" stop="20260824230900 +0800">
+        <title lang="zh">山东齐鲁超赛第9轮全场回放：青岛平企联青春3:2济南队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20260824230900 +0800" stop="20260825011100 +0800">
+        <title lang="zh">福建闽超友谊赛全场回放：福州3:2马祖</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
