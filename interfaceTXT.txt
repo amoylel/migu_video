@@ -1,5 +1,5 @@
 央视频道,#genre#
-更新日期: 2026-9-11 07:03:38,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=b4e859177529c7ba5c3166e5df7a81b4&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260911065513&Channel_ID=0116_2600034600-99000-201600010021554&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.49&SecurityKey=20260911065513&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f03dea8c2cdbc31cb21a574dd223d5e6&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8461db3e2f8c6a69f682872c647ee804
+更新日期: 2026-9-11 09:13:23,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=b4e859177529c7ba5c3166e5df7a81b4&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260911065513&Channel_ID=0116_2600034600-99000-201600010021554&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.49&SecurityKey=20260911065513&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f03dea8c2cdbc31cb21a574dd223d5e6&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8461db3e2f8c6a69f682872c647ee804
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=b4e859177529c7ba5c3166e5df7a81b4&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260911065513&Channel_ID=0116_2600034600-99000-201600010021554&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.49&SecurityKey=20260911065513&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=f03dea8c2cdbc31cb21a574dd223d5e6&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=8461db3e2f8c6a69f682872c647ee804
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=bc0ad4768e5a7552d46ceadd9519cbca&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260911064959&Channel_ID=0116_2600034600-99000-201600010086902&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.40&SecurityKey=20260911064959&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=07e3328c476f3219238a015165130d11&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b692f5ce7158cf0d85b616a4bdc42e70
 CCTV1综合,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=8698ae6b41c3c839c1a4d8d9502e2f3b&mdspid=&spid=699004&netType=0&sid=2201057821&pid=2028597139&timestamp=20260911063955&Channel_ID=0116_2600034600-99000-201600010005985&ProgramID=608807420&ParentNodeID=-99&assertID=2201057821&client_ip=125.211.195.31&SecurityKey=20260911063955&promotionId=&mvid=2201057821&mcid=500020&playurlVersion=ZQ-A1-9.9.1-SNAPSHOT&userid=&jmhm=&videocodec=h264&appCode=miguvideo_android&bean=mgspad&tid=android&conFee=0&mtv_session=02674f87da12a7ada65d8bad35dfc39c&sv=10004&ct=android&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7a0e43889b3b9fcd88427150975f86a7
@@ -58,7 +58,6 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 兵团卫视,https://hlsbkmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/01.m3u8?&HlsSubType=&encrypt=
 广东地区,#genre#
 广东珠江,http://38.75.136.137:98/gslb/dsdqpub/gdzj.m3u8?auth=testpub
-广东民生,http://38.75.136.137:98/gslb/dsdqpub/gdgg.m3u8?auth=testpub
 广东影视,https://hlsbkmgsplive.miguvideo.com/wd_r1/2018/nfmedia/nfys/1000/01.m3u8?&HlsSubType=&encrypt=
 湖南地区,#genre#
 长沙县新闻综合,https://liveplay-srs.voc.com.cn/hls/tv/203_10cdf5.m3u8
@@ -130,9 +129,8 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 海门新闻综合,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenxwzh.m3u8
 海门教育人文,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjyrw.m3u8
 海门经济生活,http://haimen-tv-hls.cm.jstv.com/haimen-tv/haimenjjzh.m3u8
-沭阳综合,http://shuyang-tv-hls.cm.jstv.com/shuyang-tv/shuyangzh.m3u8
-大丰一套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafengyt.m3u8
 大丰二套,http://dafeng-tv-hls.cm.jstv.com/dafeng-tv/dafenget.m3u8
+如东1,http://rudong-tv-hls.cm.jstv.com/rudong-tv/rdxwzh.m3u8
 无锡新闻综合,http://stream.thmz.com/wxtv1/sd/live.m3u8
 无锡都市资讯,http://stream.thmz.com/wxtv3/sd/live.m3u8
 无锡生活,http://stream.thmz.com/wxtv4/sd/live.m3u8
@@ -259,8 +257,8 @@ CCTV卫生健康,http://38.75.136.137:98/gslb/dsdqpub/wsjk.m3u8?auth=testpub
 林颖综合,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
 宝丰1,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
 新密新闻频道,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
-山西地区,#genre#
-古交电视台,http://pili-live-hls.189.i2863.com/i2863-189/live_189_170656.m3u8
+山东地区,#genre#
+潍坊科教文化,http://pullwftv.wftvqcm.com/live/wf4pda.m3u8
 甘肃地区,#genre#
 嘉峪关综合,https://play.kankanlive.com/live/1658978094528926.m3u8
 嘉峪关公共,https://play.kankanlive.com/live/1658978141553927.m3u8
