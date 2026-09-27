@@ -78,16 +78,16 @@
     <programme channel="CCTV1综合" start="20260927185040 +0800" stop="20260927190000 +0800">
         <title lang="zh">秘境之眼-2026-263</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260927190000 +0800" stop="20260927194010 +0800">
+    <programme channel="CCTV1综合" start="20260927190000 +0800" stop="20260927193750 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260927194010 +0800" stop="20260927200600 +0800">
+    <programme channel="CCTV1综合" start="20260927193750 +0800" stop="20260927200630 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260927200600 +0800" stop="20260927213905 +0800">
+    <programme channel="CCTV1综合" start="20260927200630 +0800" stop="20260927213935 +0800">
         <title lang="zh">金石探文明-三星堆金杖</title>
     </programme>
-    <programme channel="CCTV1综合" start="20260927213905 +0800" stop="20260927220000 +0800">
+    <programme channel="CCTV1综合" start="20260927213935 +0800" stop="20260927220000 +0800">
         <title lang="zh">中华古树-明清石榴园古树群（4K）</title>
     </programme>
     <programme channel="CCTV1综合" start="20260927220000 +0800" stop="20260927223600 +0800">
@@ -1215,10 +1215,10 @@
     <programme channel="CCTV13新闻" start="20260927190000 +0800" stop="20260927193235 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260927193235 +0800" stop="20260927194010 +0800">
+    <programme channel="CCTV13新闻" start="20260927193235 +0800" stop="20260927193750 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20260927194010 +0800" stop="20260927200000 +0800">
+    <programme channel="CCTV13新闻" start="20260927193750 +0800" stop="20260927200000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13新闻" start="20260927200000 +0800" stop="20260927210000 +0800">
